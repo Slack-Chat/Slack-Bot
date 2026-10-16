@@ -1,0 +1,6 @@
+{
+  "name": "slack",
+  "private": true,
+  "license": "SEE LICENSE",
+  "description": "Slack Chat for channels, huddles, bots, and workspace integrations."
+}
